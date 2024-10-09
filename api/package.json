@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Rest API json-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshrautela25/E-Commerce-Data-Base.git"
+  },
+  "author": "Lokesh Rautela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshrautela25/E-Commerce-Data-Base/issues"
+  },
+  "homepage": "https://github.com/lokeshrautela25/E-Commerce-Data-Base#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
